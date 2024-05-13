@@ -1,6 +1,6 @@
 # PCSE24-49
-Comparative analysis of VGG16, Inception V4, AlexNet, and ResNet 50 for Plant Disease Identification 
-Upendra Mishra
+Comparative analysis of VGG16, Inception V4, AlexNet, and ResNet 50 for Plant Disease Identification \
+Upendra Mishra\
 KIET Group of Institutions Delhi-NCR, Ghaziabad (UP)
 Utkarsh Arora
 KIET Group of Institutions Delhi-NCR, Ghaziabad (UP)
